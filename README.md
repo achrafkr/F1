@@ -3,7 +3,7 @@
 <img
   src="https://www.f1-fansite.com/wp-content/uploads/2022/10/SI202210020366_hires_jpeg_24bit_rgb.jpg"
   alt="Image prev"
-  style="display: inline-block; margin: 0 auto; max-width: 1080px">
+  style="display: inline-block; margin: 0 auto; max-width: 600px">
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 
