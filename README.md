@@ -1,6 +1,6 @@
 # F1
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif" width="1080" height="480" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif" width="640" height="360" />
 
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
