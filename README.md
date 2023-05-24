@@ -1,5 +1,7 @@
 # F1
-![GIF prev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif)
+
+<img src="(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif" width="1080" height="600" />
+
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 
@@ -16,3 +18,5 @@
 
 ## 3. Project Status
 [Ongoing ...]
+![GIF prev]
+(https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlM2FkNDNmZGYxZTFmNGRhMDE5ZjQ4NjM2MzAwOWQyNzQxNDBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LXTvBYlhAmHHeidlq8/giphy.gif)
