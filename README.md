@@ -4,7 +4,8 @@
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 ![tf version](https://img.shields.io/badge/tensorflow-%20-orange)
-![sk-learn version](https://img.shields.io/badge/scikit--learn-%20-green) %https://img.shields.io/static/v1?label=%20&message=scikti-learn&color=green
+![sk-learn version](https://img.shields.io/badge/scikit--learn-%20-green) 
+[comment]: <> %https://img.shields.io/static/v1?label=%20&message=scikti-learn&color=green
 ![sns version](https://img.shields.io/badge/seaborn-%20-blueviolet)
 ![plt version](https://img.shields.io/badge/matplotlib-%20-informational)
 ![plotly version](https://img.shields.io/badge/plotly-%20-blueviolet)
