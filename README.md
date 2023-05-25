@@ -1,4 +1,4 @@
-# F1
+# F1 : Insights derived from data and analysis 
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif" width="640" height="400"></center>
 
@@ -16,7 +16,7 @@
 3. Project Status
 
 ## 1. About
-This repository gathers a series of small projects around formula 1. The main focus is on data analysis and the design of AI algorithms for classification, clustering or prediction of the variables depending on the purpose of the project. 
+This repository gathers a series of small projects around Formula 1. The main focus is on data analysis and the design of AI algorithms for classification, clustering or prediction of the variables depending on the purpose of the project. 
 
 The projects are divided into separate directories, and are mainly coded in python language. Each project consists of sequences of commented notebooks where the objectives and the analytical reports are presented in detail. Notebooks may be supported by python scripts for cases where code automation is required. 
 
