@@ -33,8 +33,11 @@ Libraries that are used are mentioned at the beginning of every notebook. Moreov
 Also note that it will be useful to ensure the compatibility between certain releases of the libraries that are used in each project, with special attention on numpy and tensorflow.
 
 ## 3. Project Status
-[Ongoing ...]
 
-This is just the beginning and we will be extending the repository step by step.
+  - Safety Car Prediction:
+    - Major data analysis have been successfully completed. 
+    - The work on predictive models is in progress.
+
+[Ongoing ... This is just the beginning and we will be extending the repository step by step.]
 
 ![GIF prev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlM2FkNDNmZGYxZTFmNGRhMDE5ZjQ4NjM2MzAwOWQyNzQxNDBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LXTvBYlhAmHHeidlq8/giphy.gif)
