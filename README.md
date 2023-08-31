@@ -18,7 +18,7 @@
 3. Project Status
 
 ## 1. About
-This repository gathers a series of small projects around Formula 1. The main focus is on data analysis and the design of AI algorithms for classification, clustering or prediction of the variables depending on the purpose of the project. 
+This repository gathers a series of small projects about Formula 1. The main focus is on data analysis and the design of AI algorithms for classification, clustering or prediction of the variables depending on the purpose of the project. 
 
 The projects are divided into separate directories, and are mainly coded in python language. Each project consists of series of commented notebooks in which the objectives and the analytical reports are presented in detail. Notebooks may be supported by python scripts for cases where code automation is required. 
 
