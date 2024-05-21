@@ -33,7 +33,7 @@ For the correct execution and reproducibility of the notebooks, we recommend the
 
 System requirements are generally basic and in specific cases where GPUs are used, it may be possible to run the project code using either the CPU or on a cloud environment in case the CPU becomes insufficient.
 
-Libraries that are used are mentioned at the beginning of every notebook. Moreover, we recommend to install [FastF1](https://pypi.org/project/fastf1/) or [Plotly](https://plotly.com/python/getting-started/).
+Libraries that are used are mentioned at the beginning of every notebook. Moreover, we recommend to install [`FastF1`](https://pypi.org/project/fastf1/) or [`Plotly`](https://plotly.com/python/getting-started/).
 
 Also note that it will be useful to ensure the compatibility between certain releases of the libraries that are used in each project, with special attention on numpy and tensorflow.
 
