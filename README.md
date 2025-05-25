@@ -2,8 +2,8 @@
 
 <p align="center">
 <img 
-src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjdkMmQyMDI0MDYwZmY4MzFjZmRiOTY2MmM2ZGJkZmE2ZTYxOWUzZSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HhqZhrNadc1TihqxJk/giphy.gif" 
-width="640" height="400"> </p>
+src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemJ1a3Bkdjg3a3lrcHRvZmNrbXAzc2l3ZXBudjBra29weXR2OG5nYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vTnxzzCQ6nff4feGKH/giphy.gif" 
+width="920" height="420"> </p>
 
 ![Python version](https://img.shields.io/badge/python-3.9.5-blue)
 ![tf version](https://img.shields.io/badge/tensorflow-2.5.0%20-orange)
@@ -45,4 +45,4 @@ Also note that it will be useful to ensure the compatibility between certain rel
 
 [Ongoing ... This is just the beginning and we will be extending the repository step by step.]
 
-![GIF prev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmNlM2FkNDNmZGYxZTFmNGRhMDE5ZjQ4NjM2MzAwOWQyNzQxNDBmZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/LXTvBYlhAmHHeidlq8/giphy.gif)
+![GIF prev](https://media1.tenor.com/m/QkHR1loUZ4YAAAAd/verstappen-f1.gif)
